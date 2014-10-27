@@ -5,3 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
+
+
+!!!!!1!!!
+* Napster sitzt neben mit...
+
+
+Hallo, Änderung von Christopher
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
