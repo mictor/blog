@@ -15,7 +15,6 @@ class PostsController < ApplicationController
   # GET /posts/new
   def new
     @post = Post.new
-    @post.build_image
   end
 
   # GET /posts/1/edit
